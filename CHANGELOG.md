@@ -6,6 +6,10 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versio
 
 ## [Unreleased]
 
+### Changed
+
+- Clone URL, crate `repository`, and crate author email now use `hipness` / `evie@lilt.me`.
+
 ### Added
 
 - Userspace `NullDevice` matching Linux `/dev/null` (`read` EOF, `write` discard, `lseek` always 0).
