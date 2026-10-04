@@ -7,7 +7,7 @@ Linux `/dev/null` 的用户态模型，以及合同相同的 misc 设备 `/dev/r
 ## 快速开始
 
 ```bash
-git clone https://github.com/hareai/rust-null.git
+git clone https://github.com/hipness/rust-null.git
 cd rust-null
 cargo test
 echo hello | cargo run -p rust-null --example discard
