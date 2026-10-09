@@ -7,7 +7,7 @@ A userspace model of Linux `/dev/null`, plus a misc device `/dev/rust-null` with
 ## Quick start
 
 ```bash
-git clone https://github.com/hipness/rust-null.git
+git clone https://github.com/bunnysi/rust-null.git
 cd rust-null
 cargo test
 echo hello | cargo run -p rust-null --example discard
