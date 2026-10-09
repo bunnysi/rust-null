@@ -8,7 +8,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versio
 
 ### Changed
 
-- Clone URL, crate `repository`, and crate author email now use `hipness` / `evie@lilt.me`.
+- Clone URL and crate `repository` now use `bunnysi`.
 
 ### Added
 
